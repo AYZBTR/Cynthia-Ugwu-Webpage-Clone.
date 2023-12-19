@@ -19,6 +19,13 @@
    border-radius: 50%;
    background-color: white;
  }
+ .bounding{
+   width: fit-content;
+   overflow: hidden;
+ }
+ .bounding .boundingelem{
+   transform: translateY(100%);
+ }
 
  #main{
     width: 100%;
@@ -63,6 +70,10 @@
 
 .blocktext{
    width: fit-content;
+   display: flex;
+   flex-direction: column;
+   align-items: end;
+
 }
 
 .blocktext h5{
@@ -72,6 +83,9 @@
 }
 
 #smallheadings{
+   display: flex;
+   flex-direction: column;
+   align-items: end;
    margin-top: 100px;
    padding-right: 30px;
 }
