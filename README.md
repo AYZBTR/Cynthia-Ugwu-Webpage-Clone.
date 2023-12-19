@@ -42,7 +42,7 @@ About Me Section: A personalized section providing insights into Cynthia's desig
 Contact Section: Users can easily connect with Cynthia through the provided contact link.
 
 How to Use
-Clone the repository: git clone https://github.com/ayzbtr/cynthia-ugwu-portfolio.git
+Clone the repository: git clone https://github.com/AYZBTR/Cynthia-Ugwu-Webpage-Clone.
 
 Open index.html in your preferred web browser.
 
