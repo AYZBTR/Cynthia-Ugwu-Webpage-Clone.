@@ -28,6 +28,6 @@
  }
  #nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: none; /* removes underline */
     font-size: 18px;
  }
